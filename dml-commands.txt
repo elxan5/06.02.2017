@@ -1,0 +1,24 @@
+SELECT-Database-den datalari almaq üçün istifad? olunur.
+
+
+INSERT-table data daxil etmek üçün istifad? olunur.
+
+UPDATE-tabledaki datalari yenil?m?k üçün istifad? olunur.
+
+DELETE-bir tabledaki bütün qeydl?ri sil?r v? yeni qeydl?r elav? etm?k üçün yer qalar.
+
+MERGE-UPSERT-?m?lyatlari daxil etm?k veya yenil?m?k üçün istifad? olnur.
+
+CALL-Pl,Sql,java ve s. proqramlari çagirmaq üçün istifad? olunur.
+
+CREATE-database-de obyektler yaratmaq üçün istifad? olunur.
+
+AltER- Database-in strukturunu deyistirir.
+
+DROP-Database-den obyektleri silmek üçün istifad? olunur.
+
+TRUNCATE - Bir tabledaki h?m bütün qeydl?ri h?m d? onun üçün ayrilmis bütün yerl?ri silir.
+
+RENAME- Bir obyekti tezden adlandirmaq üçündür.
+
+COMMENT - Dataya s?rh elav? etm?k üçündür.
